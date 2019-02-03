@@ -1,2 +1,2 @@
-# BPL-ValentineCliff
-Valentine and Cliff solution for BPL
+#fringe tech
+saving apps for small groups
